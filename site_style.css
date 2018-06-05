@@ -19,3 +19,7 @@ body{
 h1, h2, h3, h4, p, li{
     color: #ffaa80;
 }
+
+#bio{
+    width: 400px;
+}
