@@ -7,10 +7,15 @@ img{
     background: linear-gradient(45deg, navy, white);
 }
 
-a:link{
+a:link, a:visited{
     color: white;
+    text-decoration: none;
 }
 
-a:visited{
-    color: yellow;
+body{
+    background: linear-gradient(90deg, teal, silver);
+}
+
+h1, h2, h3, h4, p, li{
+    color: #ffaa80;
 }
