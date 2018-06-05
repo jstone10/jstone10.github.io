@@ -1,0 +1,16 @@
+img{
+    height: 500px;
+    margin-top: 30px;
+}
+
+.nav{
+    background: linear-gradient(45deg, navy, white);
+}
+
+a:link{
+    color: white;
+}
+
+a:visited{
+    color: yellow;
+}
